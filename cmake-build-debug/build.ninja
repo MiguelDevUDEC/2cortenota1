@@ -133,6 +133,24 @@ build CMakeFiles/Taller2Corte.dir/13.cpp.obj: CXX_COMPILER__Taller2Corte_unscann
   OBJECT_DIR = CMakeFiles\Taller2Corte.dir
   OBJECT_FILE_DIR = CMakeFiles\Taller2Corte.dir
 
+build CMakeFiles/Taller2Corte.dir/14.cpp.obj: CXX_COMPILER__Taller2Corte_unscanned_Debug C$:/Users/Miguel/Desktop/UDEC/I/Algoritmos/Taller2Corte/14.cpp || cmake_object_order_depends_target_Taller2Corte
+  DEP_FILE = CMakeFiles\Taller2Corte.dir\14.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Taller2Corte.dir
+  OBJECT_FILE_DIR = CMakeFiles\Taller2Corte.dir
+
+build CMakeFiles/Taller2Corte.dir/15.cpp.obj: CXX_COMPILER__Taller2Corte_unscanned_Debug C$:/Users/Miguel/Desktop/UDEC/I/Algoritmos/Taller2Corte/15.cpp || cmake_object_order_depends_target_Taller2Corte
+  DEP_FILE = CMakeFiles\Taller2Corte.dir\15.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Taller2Corte.dir
+  OBJECT_FILE_DIR = CMakeFiles\Taller2Corte.dir
+
+build CMakeFiles/Taller2Corte.dir/17.cpp.obj: CXX_COMPILER__Taller2Corte_unscanned_Debug C$:/Users/Miguel/Desktop/UDEC/I/Algoritmos/Taller2Corte/17.cpp || cmake_object_order_depends_target_Taller2Corte
+  DEP_FILE = CMakeFiles\Taller2Corte.dir\17.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Taller2Corte.dir
+  OBJECT_FILE_DIR = CMakeFiles\Taller2Corte.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Taller2Corte
@@ -141,7 +159,7 @@ build CMakeFiles/Taller2Corte.dir/13.cpp.obj: CXX_COMPILER__Taller2Corte_unscann
 #############################################
 # Link the executable Taller2Corte.exe
 
-build Taller2Corte.exe: CXX_EXECUTABLE_LINKER__Taller2Corte_Debug CMakeFiles/Taller2Corte.dir/main.cpp.obj CMakeFiles/Taller2Corte.dir/1.cpp.obj CMakeFiles/Taller2Corte.dir/2.cpp.obj CMakeFiles/Taller2Corte.dir/3.cpp.obj CMakeFiles/Taller2Corte.dir/4.cpp.obj CMakeFiles/Taller2Corte.dir/5.cpp.obj CMakeFiles/Taller2Corte.dir/6.cpp.obj CMakeFiles/Taller2Corte.dir/8.cpp.obj CMakeFiles/Taller2Corte.dir/7.cpp.obj CMakeFiles/Taller2Corte.dir/9.cpp.obj CMakeFiles/Taller2Corte.dir/10.cpp.obj CMakeFiles/Taller2Corte.dir/11.cpp.obj CMakeFiles/Taller2Corte.dir/12.cpp.obj CMakeFiles/Taller2Corte.dir/13.cpp.obj
+build Taller2Corte.exe: CXX_EXECUTABLE_LINKER__Taller2Corte_Debug CMakeFiles/Taller2Corte.dir/main.cpp.obj CMakeFiles/Taller2Corte.dir/1.cpp.obj CMakeFiles/Taller2Corte.dir/2.cpp.obj CMakeFiles/Taller2Corte.dir/3.cpp.obj CMakeFiles/Taller2Corte.dir/4.cpp.obj CMakeFiles/Taller2Corte.dir/5.cpp.obj CMakeFiles/Taller2Corte.dir/6.cpp.obj CMakeFiles/Taller2Corte.dir/8.cpp.obj CMakeFiles/Taller2Corte.dir/7.cpp.obj CMakeFiles/Taller2Corte.dir/9.cpp.obj CMakeFiles/Taller2Corte.dir/10.cpp.obj CMakeFiles/Taller2Corte.dir/11.cpp.obj CMakeFiles/Taller2Corte.dir/12.cpp.obj CMakeFiles/Taller2Corte.dir/13.cpp.obj CMakeFiles/Taller2Corte.dir/14.cpp.obj CMakeFiles/Taller2Corte.dir/15.cpp.obj CMakeFiles/Taller2Corte.dir/17.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Taller2Corte.dir
