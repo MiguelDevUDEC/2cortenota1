@@ -1,0 +1,3 @@
+C:/Users/Miguel/Desktop/UDEC/I/Algoritmos/Taller2Corte/cmake-build-debug/CMakeFiles/Taller2Corte.dir
+C:/Users/Miguel/Desktop/UDEC/I/Algoritmos/Taller2Corte/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Miguel/Desktop/UDEC/I/Algoritmos/Taller2Corte/cmake-build-debug/CMakeFiles/rebuild_cache.dir
